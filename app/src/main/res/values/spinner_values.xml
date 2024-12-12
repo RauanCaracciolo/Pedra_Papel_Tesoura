@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_jogos">
+        <item>Confrontro único</item>
+        <item>Melhor de  3</item>
+        <item>Melhor de 5</item>
+    </string-array>
+    <string-array name="contra">
+        <item>PvP</item>
+        <item>PvE</item>
+    </string-array>
+</resources>
